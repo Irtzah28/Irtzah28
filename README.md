@@ -1,3 +1,5 @@
+![Muhammad Irtza Hussain - Developer Banner](./profile-banner.png)
+
 # 👋 Hi, I'm Muhammad Irtza Hussain 
 
 - 🧬 I'm a Bioinformatics graduate with interests in software development and AI.
