@@ -50,4 +50,8 @@
 
 ### Tools
 - Git, GitHub
+- Jupyter Notebook
 - VS Code
+- Cursor
+- Claude
+- Antigravity
